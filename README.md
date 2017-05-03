@@ -3,9 +3,6 @@
 # git-foo
 # git-foo
 # git-piyo
-# git-piyo
-# git-hoge
-# git-hoge
 # git-hoge
 # git-test
 # git-test
